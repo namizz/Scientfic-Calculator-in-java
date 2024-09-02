@@ -1,2 +1,0 @@
-All class are avalible in below path
-project\java calculator1\java calculator1\Java Calculator\Calculator\src
